@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [diceone][website] 👋 
 
 [![Website](https://img.shields.io/website?label=dev-ops.de&style=for-the-badge&url=https%3A%2F%2Fwww.dev-ops.de)](https://www.dev-ops.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tha_joka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=diceone)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tha_joka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftha_joka&screen_name=tha_joka)
 
 ## I'm a Husband, Head of, Administrator and Developer!!
 
