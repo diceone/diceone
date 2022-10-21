@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=dev-ops.de&style=for-the-badge&url=https%3A%2F%2Fwww.dev-ops.de)](https://www.dev-ops.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tha_joka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftha_joka&screen_name=tha_joka)
 
-## I'm a Husband, Head of, k8s Architect, Administrator, Developer and Agile Coach!!
+## I'm a Husband, k8s Architect, Administrator, Developer and Agile Coach!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: More Automation! Building the cloud; Learnning new technology!
