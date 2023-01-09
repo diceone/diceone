@@ -6,7 +6,7 @@
 ## I'm a Husband, k8s Architect, Administrator, Developer and Agile Coach!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: More Automation! Building the cloud; Learnning new technology!
+- 🥅 2023 Goals: More Automation and AI! Building the cloud; Learnning new technology!
 - ⚡ Fun fact: I love producing music!
 
 ### Connect with me:
